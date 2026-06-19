@@ -1,0 +1,1 @@
+draw_self(); // Draw cauldron sprite

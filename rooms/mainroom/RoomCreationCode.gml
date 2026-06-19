@@ -1,0 +1,3 @@
+instance_deactivate_object(obj_logout);
+instance_deactivate_object(obj_gotosettings);
+instance_deactivate_object(obj_sell);

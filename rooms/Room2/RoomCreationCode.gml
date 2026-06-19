@@ -1,0 +1,1 @@
+audio_play_sound(bgm_title, 1, true, 1, -10);

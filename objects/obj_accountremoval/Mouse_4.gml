@@ -1,0 +1,2 @@
+// Вызываем диалоговое окно и сохраняем его ID, чтобы потом отловить ответ
+global.delete_dialog = show_question_async("Are you sure that you want to delete you account? ALL PROGRESS THAT YOU HAVE MADE SO FAR WILL BE GONE FOREVER!.");

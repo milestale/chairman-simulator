@@ -1,0 +1,1 @@
+global.new_avatar_path = "";
