@@ -1,2 +1,6 @@
-# chairman-simulator
-A videogame that was made as a college project for Database lessons.
+# Chairman Simulator
+Это симулятор создания стеклянных стульев сделанный для показа работы GameMaker с базами данных SQL используя PHP.
+
+## Предварительная настройка
+Для запуска проекта вам потребуется какой-нибудь SQL сервер, например MAMP (Именно его я и использовал).
+
